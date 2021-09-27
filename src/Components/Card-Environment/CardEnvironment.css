@@ -1,0 +1,20 @@
+.title{
+    text-transform: uppercase !important;
+    font-weight:bold !important;
+}
+
+.images {
+    -webkit-border-radius: 50px 50px 50px 50px;
+border-radius: 50px 50px 50px 50px;
+}
+
+.card-image {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-box-shadow: 0.35px 1px 20px 0.5px #474747ca;
+    box-shadow: 0.35px 1px 20px 0.5px #474747ca;
+}
+
+.fa-envira{
+    color: rgb(36, 212, 36);
+}
