@@ -16,7 +16,8 @@ function CardEnvironment() {
                             <figure className="image is-4by3">
                                 <img
                                     src="https://images.unsplash.com/photo-1605198717917-ffc4e6e67514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1167&q=80"
-                                    alt="Placeholder image"
+                                    alt="Medio Ambiente"
+                                    loading="lazy"
                                 />
                             </figure>
                         </div>
@@ -27,7 +28,8 @@ function CardEnvironment() {
                                         <img
                                             className="images"
                                             src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
-                                            alt="Placeholder image"
+                                            alt="Medio Ambiente"
+                                    loading="lazy"
                                         />
                                     </figure>
                                 </div>
@@ -54,7 +56,8 @@ function CardEnvironment() {
                             <figure className="image is-4by3">
                                 <img
                                     src="https://images.unsplash.com/photo-1562577308-7a567b20e123?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
-                                    alt="Placeholder image"
+                                    alt="Medio Ambiente"
+                                    loading="lazy"
                                 />
                             </figure>
                         </div>
@@ -65,7 +68,8 @@ function CardEnvironment() {
                                         <img
                                             className="images"
                                             src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
-                                            alt="Placeholder image"
+                                            alt="Medio Ambiente"
+                                            loading="lazy"
                                         />
                                     </figure>
                                 </div>
@@ -92,7 +96,8 @@ function CardEnvironment() {
                             <figure className="image is-4by3">
                                 <img
                                     src="https://images.unsplash.com/photo-1601898421010-01a14bc4c49b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
-                                    alt="Placeholder image"
+                                    alt="Medio Ambiente"
+                                    loading="lazy"
                                 />
                             </figure>
                         </div>
@@ -103,7 +108,8 @@ function CardEnvironment() {
                                         <img
                                             className="images"
                                             src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
-                                            alt="Placeholder image"
+                                            alt="Medio Ambiente"
+                                            loading="lazy"
                                         />
                                     </figure>
                                 </div>
@@ -134,7 +140,8 @@ function CardEnvironment() {
                             <figure className="image is-4by3">
                                 <img
                                     src="https://images.unsplash.com/photo-1605198717917-ffc4e6e67514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1167&q=80"
-                                    alt="Placeholder image"
+                                    alt="Medio Ambiente"
+                                    loading="lazy"
                                 />
                             </figure>
                         </div>
@@ -145,7 +152,8 @@ function CardEnvironment() {
                                         <img
                                             className="images"
                                             src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
-                                            alt="Placeholder image"
+                                            alt="Medio Ambiente"
+                                    loading="lazy"
                                         />
                                     </figure>
                                 </div>
@@ -183,7 +191,8 @@ function CardEnvironment() {
                                         <img
                                             className="images"
                                             src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
-                                            alt="Placeholder image"
+                                            alt="Medio Ambiente"
+                                            loading="lazy"
                                         />
                                     </figure>
                                 </div>
@@ -210,7 +219,8 @@ function CardEnvironment() {
                             <figure className="image is-4by3">
                                 <img
                                     src="https://images.unsplash.com/photo-1601898421010-01a14bc4c49b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80"
-                                    alt="Placeholder image"
+                                    alt="Medio Ambiente"
+                                    loading="lazy"
                                 />
                             </figure>
                         </div>
@@ -221,7 +231,8 @@ function CardEnvironment() {
                                         <img
                                             className="images"
                                             src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
-                                            alt="Placeholder image"
+                                            alt="Medio Ambiente"
+                                            loading="lazy"
                                         />
                                     </figure>
                                 </div>

@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="icon" href="%PUBLIC_URL%/logo512.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta name="description" content="Web site created using create-react-app" />
@@ -21,8 +21,9 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>14 Abril Verde</title>
     <script src="https://kit.fontawesome.com/f76c78bbf4.js" crossorigin="anonymous"></script>
+
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -45,7 +46,7 @@ const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.na
 
 // Check if there are any navbar burgers
 if ($navbarBurgers.length > 0) {
-
+ 
   // Add a click event on each of them
   $navbarBurgers.forEach( el => {
     el.addEventListener('click', () => {
@@ -57,7 +58,7 @@ if ($navbarBurgers.length > 0) {
       // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
       el.classList.toggle('is-active');
       $target.classList.toggle('is-active');
-
+       
     });
   });
 }

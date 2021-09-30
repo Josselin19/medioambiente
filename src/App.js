@@ -1,23 +1,15 @@
-import React from 'react';
+import React , { lazy, memo, Suspense } from 'react';
+import Spinner from './Components/Spinner/Spinner';
 import Navabar from './Components/Navabar/Navabar';
-import Slider from './Components/Slider/Slider';
-import CardEnvironment from './Components/Card-Environment/CardEnvironment';
-import Footer from './Components/Footer/Footer';
-import Evidencia from './Components/Evidencia/Evidencia';
-import Contact from './Components/Contact/Contact';
-import About from './Components/About/About';
+ const RouterPath = lazy(() => import('./Components/RouterPath'));
 function App() {
   return (
-    <div className="App">
-      < Navabar />
-      <Slider />
-      <CardEnvironment />
-      <Evidencia />
-      <About />
-<Contact />
-
-      <Footer />
-    </div>
+    <>
+    <Suspense  fallback={<Spinner />}>
+      <Navabar />
+      <RouterPath />
+    </Suspense>
+    </>
   );
 }
 
