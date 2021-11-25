@@ -59,9 +59,9 @@ function Navabar() {
         {/* Hero content: will be in the middle */}
         <div className="hero-body">
           <div className="container has-text-centered">
-            <p className="title">14 ABRIL</p>
+            <h1 className="title">14 ABRIL</h1>
            
-            <p className="subtitle"><i class="fab fa-envira fa-rotate-90"></i>  MEDIOAMBIENTE  <i class="fab fa-envira "></i> </p>
+            <h2 className="subtitle"><i class="fab fa-envira fa-rotate-90"></i>  MEDIO  AMBIENTE  <i class="fab fa-envira "></i> </h2>
           </div>
         </div>
        
