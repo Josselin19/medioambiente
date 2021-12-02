@@ -5,11 +5,11 @@ function Evidencia() {
         <div id="evidencia" className="container my-5 p-5">
 
         <h2  className="title  is-ancestor has-text-centered ">
-            Evidencia de cuidar el medioambiente en la escuela 14 de abril.
+           Zona verde del centro escolar "14 de abril"
         </h2>
 
 
-        <div className="columns is-variable is-1-mobile is-3-tablet is-3-desktop is-8-widescreen is-2-fullhd">
+        <div className="columns  is-variable is-1-mobile is-3-tablet is-3-desktop is-8-widescreen is-2-fullhd">
             <div className="column">
                 <div className="card">
                     <div className="card-image">
@@ -28,23 +28,22 @@ function Evidencia() {
                                 <figure className="image is-48x48">
                                     <img
                                         className="images"
-                                        src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
+                                        src="https://res.cloudinary.com/christianzayas/image/upload/v1635392835/Amor/medioambiente/14abril.svg"
                                         alt="Medio Ambiente"
                                         loading="lazy"
                                     />
                                 </figure>
                             </div>
                             <div className="media-content">
-                                <p className="title is-4"><i class="fab fa-envira fa-rotate-90"></i> Josselin Machado</p>
-                                <p className="subtitle is-6">@josselinmachado</p>
+                                <p className="title is-4"> "14 de abril verde" </p>
+                                <p  className="subtitle is-6">@catorcedeabril.eltransito</p>
                             </div>
                         </div>
                         <div className="content">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                            iaculis mauris. <a>@bulmaio</a>.<a href="#">#css</a>{" "}
-                            <a href="#">#responsive</a>
-                            <br />
-                            <time dateTime="20-09-2021"><i class="fas fa-clock"></i>  20/09/2021</time>
+                           <p>
+                           Limpieza del área de plantación de árboles ayudando de esta forma al desarrollo y crecimiento de los mismos.
+                           </p>
+                            <a href="https://www.facebook.com/catorcedeabril.eltransito"> <i class="fab fa-facebook"></i> Catorce DE Abril EL Transito </a>
                         </div>
                     </div>
                 </div>
@@ -56,7 +55,7 @@ function Evidencia() {
                     <div className="card-image">
                         <figure className="image is-4by3">
                             <img
-                                src="https://res.cloudinary.com/christianzayas/image/upload/v1635389379/Amor/medioambiente/20211027_124842.jpg"
+                                src="https://res.cloudinary.com/christianzayas/image/upload/v1638242556/Amor/medioambiente/Screenshot_4.png"
                                 alt="Medio Ambiente"
                                 loading="lazy"
                             />
@@ -68,23 +67,27 @@ function Evidencia() {
                                 <figure className="image is-48x48">
                                     <img
                                         className="images"
-                                        src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
+                                        src="https://res.cloudinary.com/christianzayas/image/upload/v1635392835/Amor/medioambiente/14abril.svg"
                                         alt="Medio Ambiente"
                                         loading="lazy"
                                     />
                                 </figure>
                             </div>
                             <div className="media-content">
-                                <p className="title is-4"><i class="fab fa-envira fa-rotate-90"></i> Josselin Machado</p>
-                                <p className="subtitle is-6">@josselinmachado</p>
+                            <p className="title is-4"> "14 de abril verde" </p>
+                                <p  className="subtitle is-6">@catorcedeabril.eltransito</p>
                             </div>
                         </div>
                         <div className="content">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                            iaculis mauris. <a>@bulmaio</a>.<a href="#">#css</a>{" "}
-                            <a href="#">#responsive</a>
-                            <br />
-                            <time dateTime="24-09-2021"><i class="fas fa-clock"></i> 24/09/2021</time>
+                           
+                            <p>
+                            Estudiantes brindan su apoyo  con la entrega y plantación de árboles para el centro educativo.
+                            </p>
+
+                            <p>
+                            Mejora la salud física ya que se tiene el ambiente más fresco y natural.
+                            </p>
+                        <a href="https://www.facebook.com/catorcedeabril.eltransito"> <i class="fab fa-facebook"></i> Catorce DE Abril EL Transito </a>
                         </div>
                     </div>
                 </div>
@@ -108,23 +111,20 @@ function Evidencia() {
                                 <figure className="image is-48x48">
                                     <img
                                         className="images"
-                                        src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
+                                        src="https://res.cloudinary.com/christianzayas/image/upload/v1635392835/Amor/medioambiente/14abril.svg"
                                         alt="Medio Ambiente"
                                         loading="lazy"
                                     />
                                 </figure>
                             </div>
                             <div className="media-content">
-                                <p className="title is-4"><i class="fab fa-envira fa-rotate-90"></i> Josselin Machado</p>
-                                <p className="subtitle is-6">@josselinmachado</p>
+                            <p className="title is-4"> "14 de abril verde" </p>
+                                <p  className="subtitle is-6">@catorcedeabril.eltransito</p>
                             </div>
                         </div>
                         <div className="content">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                            iaculis mauris. <a>@bulmaio</a>.<a href="#">#css</a>{" "}
-                            <a href="#">#responsive</a>
-                            <br />
-                            <time dateTime="26-09-2021"><i class="fas fa-clock"></i> 26/09/2021</time>
+                            <p>En cada pabellón de nuestro centro educativo contamos con pequeñas áreas verdes.</p>
+                        <a href="https://www.facebook.com/catorcedeabril.eltransito"> <i class="fab fa-facebook"></i> Catorce DE Abril EL Transito </a>
                         </div>
                     </div>
                 </div>
@@ -152,23 +152,22 @@ function Evidencia() {
                                 <figure className="image is-48x48">
                                     <img
                                         className="images"
-                                        src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
+                                        src="https://res.cloudinary.com/christianzayas/image/upload/v1635392835/Amor/medioambiente/14abril.svg"
                                         alt="Medio Ambiente"
                                         loading="lazy"
                                     />
                                 </figure>
                             </div>
                             <div className="media-content">
-                                <p className="title is-4"><i class="fab fa-envira fa-rotate-90"></i> Josselin Machado</p>
-                                <p className="subtitle is-6">@josselinmachado</p>
+                            <p className="title is-4"> "14 de abril verde" </p>
+                                <p  className="subtitle is-6">@catorcedeabril.eltransito</p>
                             </div>
                         </div>
                         <div className="content">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                            iaculis mauris. <a>@bulmaio</a>.<a href="#">#css</a>{" "}
-                            <a href="#">#responsive</a>
-                            <br />
-                            <time dateTime="28-09-2021"><i class="fas fa-clock"></i> 28/09/2021</time>
+                            <p>
+                            Las zonas verdes ayuda a los estudiantes a tener mejor concentración en sus actividades, ya que brinda una sensación de paz y tranquilidad.
+                            </p>
+                        <a href="https://www.facebook.com/catorcedeabril.eltransito"> <i class="fab fa-facebook"></i> Catorce DE Abril EL Transito </a>
                         </div>
                     </div>
                 </div>
@@ -192,23 +191,22 @@ function Evidencia() {
                                 <figure className="image is-48x48">
                                     <img
                                         className="images"
-                                        src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
+                                        src="https://res.cloudinary.com/christianzayas/image/upload/v1635392835/Amor/medioambiente/14abril.svg"
                                         alt="Medio Ambiente"
                                     loading="lazy"
                                     />
                                 </figure>
                             </div>
                             <div className="media-content">
-                                <p className="title is-4"><i class="fab fa-envira fa-rotate-90"></i> Josselin Machado</p>
-                                <p className="subtitle is-6">@josselinmachado</p>
+                            <p className="title is-4"> "14 de abril verde" </p>
+                                <p  className="subtitle is-6">@catorcedeabril.eltransito</p>
                             </div>
                         </div>
                         <div className="content">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                            iaculis mauris. <a>@bulmaio</a>.<a href="#">#css</a>{" "}
-                            <a href="#">#responsive</a>
-                            <br />
-                            <time dateTime="30-09-2021"><i class="fas fa-clock"></i> 30/09/2021</time>
+                            <p>
+                            Los jardines, los árboles y la vegetación en general son los elementos claves para mantener una buena calidad educativa y favorecer el bienestar de los alumnos.
+                            </p>
+                        <a href="https://www.facebook.com/catorcedeabril.eltransito"> <i class="fab fa-facebook"></i> Catorce DE Abril EL Transito </a>
                         </div>
                     </div>
                 </div>
@@ -232,23 +230,22 @@ function Evidencia() {
                                 <figure className="image is-48x48">
                                     <img
                                         className="images"
-                                        src="https://lh3.googleusercontent.com/ogw/ADea4I7zU2Wn6TXO2VTqbZABEhTLtYsL0nBM57LlPWy4-w=s83-c-mo"
+                                        src="https://res.cloudinary.com/christianzayas/image/upload/v1635392835/Amor/medioambiente/14abril.svg"
                                         alt="Medio Ambiente"
                                         loading="lazy"
                                     />
                                 </figure>
                             </div>
                             <div className="media-content">
-                                <p className="title is-4"><i class="fab fa-envira fa-rotate-90"></i>Josselin Machado</p>
-                                <p className="subtitle is-6">@josselinmachado</p>
+                                                            <p className="title is-4"> "14 de abril verde" </p>
+                                <p  className="subtitle is-6">@catorcedeabril.eltransito</p>
                             </div>
                         </div>
                         <div className="content">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
-                            iaculis mauris. <a>@bulmaio</a>.<a href="#">#css</a>{" "}
-                            <a href="#">#responsive</a>
-                            <br />
-                            <time dateTime="2021-9-30"><i class="fas fa-clock"></i> 30/09/2021</time>
+                            <p>
+                            Las zonas verdes en nuestro centro educativo son importantes ya que ayudan con el desarrollo del cerebro y es esencial para un buen desarrollo Cognitivo.
+                            </p>
+                        <a href="https://www.facebook.com/catorcedeabril.eltransito"> <i class="fab fa-facebook"></i> Catorce DE Abril EL Transito </a>
                         </div>
                     </div>
                 </div>

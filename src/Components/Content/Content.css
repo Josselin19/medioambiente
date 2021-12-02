@@ -1,0 +1,17 @@
+
+.justify-center{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.colorP{
+    font-weight: 900;
+    padding: 0.5rem;
+    color: #71cc49;
+}
+
+.padding03{
+    padding: 0.2rem;
+    font-weight: 500;
+}

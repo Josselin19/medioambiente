@@ -6,8 +6,8 @@ const  CardEnvironment = lazy(() => import('./Card-Environment/CardEnvironment')
 const Footer = lazy(() => import('./Footer/Footer'));
 const Evidencia = lazy(() => import('./Evidencia/Evidencia'));
 const Contact = lazy(() => import('./Contact/Contact'));
-const About = lazy(() => import('./About/About'));
 
+const Content = lazy(() => import('./Content/Content'));
 
 
 
@@ -15,10 +15,10 @@ function RouterPath() {
     return (
         <Suspense fallback={<Spinner />}>
              <>
-              
+              <Content/>
               <CardEnvironment/>
               <Evidencia />
-              <About/>
+              
               <Contact/>
               <Footer/>
              </>
